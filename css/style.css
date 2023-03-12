@@ -66,3 +66,6 @@ box-shadow:  22px 22px 44px #802020,
         color: white;
         padding: 30px;
         }
+        label{
+            display: block;
+        }
